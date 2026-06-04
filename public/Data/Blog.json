@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "authorName": "Aarav Sharma",
+      "title": "Mastering Python Data Structures - By Aarav Sharma",
+      "category": "Coding",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Aarav Sharma explores the critical concepts of mastering python data structures. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Coding.",
+      "likes": 124,
+      "comments": [
+        {
+          "commentId": 101,
+          "userName": "Rohan Das",
+          "text": "This cleared up all my doubts regarding tuples and lists. Great job!"
+        },
+        {
+          "commentId": 102,
+          "userName": "Sneha Patil",
+          "text": "Can you also post a breakdown of time complexities for these data structures?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "authorName": "Ananya Iyer",
+      "title": "The Art of Time Management in College - By Ananya Iyer",
+      "category": "Productivity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Ananya Iyer explores the critical concepts of the art of time management in college. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Productivity.",
+      "likes": 89,
+      "comments": [
+        {
+          "commentId": 103,
+          "userName": "Amit Mishra",
+          "text": "The Pomodoro suggestion is a lifesaver during exams."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "authorName": "Vivaan Mehta",
+      "title": "Introduction to Linear Algebra for Machine Learning - By Vivaan Mehta",
+      "category": "Mathematics",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Vivaan Mehta explores the critical concepts of introduction to linear algebra for machine learning. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Mathematics.",
+      "likes": 210,
+      "comments": [
+        {
+          "commentId": 104,
+          "userName": "Pooja Roy",
+          "text": "Eigenvalues finally make sense now. Thanks a lot!"
+        },
+        {
+          "commentId": 105,
+          "userName": "Vikram Singh",
+          "text": "Extremely well articulated concepts."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "authorName": "Diya Patel",
+      "title": "A Guide to Landing Your First Tech Internship - By Diya Patel",
+      "category": "Career",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Diya Patel explores the critical concepts of a guide to landing your first tech internship. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Career.",
+      "likes": 340,
+      "comments": [
+        {
+          "commentId": 106,
+          "userName": "Rahul K.",
+          "text": "Did you cold email or apply through referrals?"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "authorName": "Ishaan Verma",
+      "title": "Understanding Quantum Computing Basics - By Ishaan Verma",
+      "category": "Physics",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Ishaan Verma explores the critical concepts of understanding quantum computing basics. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Physics.",
+      "likes": 156,
+      "comments": [
+        {
+          "commentId": 107,
+          "userName": "Karan Johar",
+          "text": "Superposition explained beautifully."
+        }
+      ]
+    },
+ 
+    {
+      "id": 9,
+      "authorName": "Arjun Das",
+      "title": "An Overview of Behavioral Economics - By Arjun Das",
+      "category": "Economics",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Arjun Das explores the critical concepts of an overview of behavioral economics. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Economics.",
+      "likes": 93,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "authorName": "Kavya Reddy",
+      "title": "Sustainable Architecture: Designing the Future - By Kavya Reddy",
+      "category": "Engineering",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Kavya Reddy explores the critical concepts of sustainable architecture: designing the future. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Engineering.",
+      "likes": 154,
+      "comments": [
+        {
+          "commentId": 110,
+          "userName": "Nisha G.",
+          "text": "Loved the section on green materials!"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "authorName": "Rohan Gupta",
+      "title": "The History and Future of Renewable Energy - By Rohan Gupta",
+      "category": "Environmental Science",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Rohan Gupta explores the critical concepts of the history and future of renewable energy. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Environmental Science.",
+      "likes": 182,
+      "comments": []
+    }
+  ]
