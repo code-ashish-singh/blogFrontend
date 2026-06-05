@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "authorName": "Devansh Mishra",
+      "title": "Decentralized Identity (DID) Frameworks - By Devansh Mishra",
+      "category": "Web 3.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "description": "Analyzing decentralized identity setups, zero-knowledge verification proofs, and cross-platform wallet verification standards across modern networks.",
+      "likes": 255,
+      "comments": [{"commentId": 107, "userName": "Karan Johar", "text": "Self-sovereign identity is going to change user privacy forever."}]
+    },
+    {
+      "id": 2,
+      "authorName": "Shruti Saxena",
+      "title": "Interoperability Protocols: Connecting Networks - By Shruti Saxena",
+      "category": "Web 3.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1644024373656-748af852233f?auto=format&fit=crop&w=800&q=80",
+      "description": "Investigating asset bridge safety parameters and data serialization standards required to route state histories across split networks.",
+      "likes": 183,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Reyansh Choudhury",
+      "title": "The Architecture of Decentralized Storage - By Reyansh Choudhury",
+      "category": "Web 3.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=800&q=80",
+      "description": "How IPFS and cryptographic file sharding layers distribute file chunks safely across globally distributed host nodes.",
+      "likes": 312,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Sneha Kulkarni",
+      "title": "Decentralized Autonomous Organizations (DAOs) - By Sneha Kulkarni",
+      "category": "Web 3.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?auto=format&fit=crop&w=800&q=80",
+      "description": "Evaluating on-chain governance vote configurations, dynamic token weight models, and automated execution setups.",
+      "likes": 224,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Aaryan Kapoor",
+      "title": "Web3 Browser Integration Frameworks - By Aaryan Kapoor",
+      "category": "Web 3.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "description": "Using client libraries to catch provider actions, listen to chain state revisions, and process secure wallet authorizations.",
+      "likes": 267,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Vivaan Mehta",
+      "title": "The Economics of Web3 Token Mechanics - By Vivaan Mehta",
+      "category": "Web 3.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=800&q=80",
+      "description": "Designing network reward distributions, platform utility access controls, and deflationary burn logic loops to secure app utility.",
+      "likes": 410,
+      "comments": []
+    }
+  ]

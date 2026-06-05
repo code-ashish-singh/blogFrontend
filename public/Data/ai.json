@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "authorName": "Ishaan Verma",
+      "title": "Generative AI and the Future of Content - By Ishaan Verma",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "description": "Analyzing deep text generation, high-definition art generation, and synthetic audio development structures at global deployment scales.",
+      "likes": 420,
+      "comments": [{"commentId": 103, "userName": "Amit Mishra", "text": "The transformation in the last 2 years has been insane."}]
+    },
+    {
+      "id": 2,
+      "authorName": "Aditi Rao",
+      "title": "Ethics in Artificial Intelligence Frameworks - By Aditi Rao",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=800&q=80",
+      "description": "Developing operational models to track algorithmic selection errors, historical dataset bias, and public tracking concerns.",
+      "likes": 230,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Nikhil Siddharth",
+      "title": "Large Language Models Context Expansion - By Nikhil Siddharth",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1680814907495-7c9eb1398794?auto=format&fit=crop&w=800&q=80",
+      "description": "How next-generation transformer multi-head attention systems process massive documentation packages instantly without latency spikes.",
+      "likes": 389,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Suhana Khan",
+      "title": "AI-Driven Healthcare Diagnostic Systems - By Suhana Khan",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80",
+      "description": "Utilizing specialized computer vision models to detect cell mutations on high-definition magnetic resonance images accurately.",
+      "likes": 412,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Aarav Sharma",
+      "title": "Reinforcement Learning from Human Input - By Aarav Sharma",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1527474305487-b87b222841cc?auto=format&fit=crop&w=800&q=80",
+      "description": "Breaking down the direct alignment strategies implemented to ensure multi-agent communication bots follow clear user intent bounds.",
+      "likes": 276,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "authorName": "Ananya Iyer",
+      "title": "AI in Financial Trading Systems - By Ananya Iyer",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "description": "Deploying predictive market processing algorithms to trace minor structural changes and handle massive option trades.",
+      "likes": 315,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "authorName": "Vivaan Mehta",
+      "title": "The Reality of Artificial General Intelligence - By Vivaan Mehta",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1617791160505-6f006e121980?auto=format&fit=crop&w=800&q=80",
+      "description": "Evaluating conceptual software boundaries needed to move systems from functional narrow tasks to unified general cognition paradigms.",
+      "likes": 495,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "authorName": "Diya Patel",
+      "title": "AI-Powered Cyber Defense Networks - By Diya Patel",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "description": "Deploying intelligent automated systems that create specialized target patches instantly while identifying foreign script execution files.",
+      "likes": 288,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "authorName": "Kabir Joshi",
+      "title": "Computer Vision in Automated Assembly - By Kabir Joshi",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80",
+      "description": "How modern spatial detection neural structures guide industrial arm elements to configure microscopic circuit connections precisely.",
+      "likes": 195,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "authorName": "Meera Nair",
+      "title": "Natural Language Processing System Limits - By Meera Nair",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=800&q=80",
+      "description": "Investigating how semantic comprehension systems track nested expressions and structural context changes over dialogue scripts.",
+      "likes": 234,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "authorName": "Arjun Das",
+      "title": "Autonomous Drone Fleet Coordination - By Arjun Das",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80",
+      "description": "Applying localized spatial agent parameters to track obstacle boundaries and deploy supply payloads uniformly across fields.",
+      "likes": 310,
+      "comments": []
+    },
+    {
+      "id": 12,
+      "authorName": "Kavya Reddy",
+      "title": "AI in Climate Predictive Modeling - By Kavya Reddy",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=800&q=80",
+      "description": "Processing planetary atmospheric telemetry blocks to track temperature variations and manage global dynamic safety configurations.",
+      "likes": 267,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "authorName": "Rohan Gupta",
+      "title": "The Mechanics of Neuromorphic Computing - By Rohan Gupta",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&q=80",
+      "description": "Designing specialized integrated circuits that replicate human synaptic biological electrical spikes to process machine instructions.",
+      "likes": 189,
+      "comments": []
+    },
+    {
+      "id": 14,
+      "authorName": "Riya Sen",
+      "title": "The Scaling Laws of Neural Networks - By Riya Sen",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "description": "A systematic look into how dataset scale expansion, server computing configurations, and model depth metrics boost task precision limits.",
+      "likes": 354,
+      "comments": []
+    },
+    {
+      "id": 15,
+      "authorName": "Devansh Mishra",
+      "title": "AI-Driven Educational Systems - By Devansh Mishra",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=800&q=80",
+      "description": "Structuring customized lesson sequencing setups that automatically adapt learning speed based on real-time assignment grading output metrics.",
+      "likes": 211,
+      "comments": []
+    },
+    {
+      "id": 16,
+      "authorName": "Shruti Saxena",
+      "title": "AI Speech Synthesis Innovations - By Shruti Saxena",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=800&q=80",
+      "description": "Creating realistic voice replicas capable of projecting proper emotive emphasis patterns and structural micro-inflections fluently.",
+      "likes": 240,
+      "comments": []
+    },
+    {
+      "id": 17,
+      "authorName": "Reyansh Choudhury",
+      "title": "Creative Design Synthesis Paradigms - By Reyansh Choudhury",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1561070791-26c113006238?auto=format&fit=crop&w=800&q=80",
+      "description": "How product design divisions leverage automated asset arrays to iterate layout wireframes rapidly based on user interaction trends.",
+      "likes": 182,
+      "comments": []
+    },
+    {
+      "id": 18,
+      "authorName": "Sneha Kulkarni",
+      "title": "Explainable AI (XAI) Verification Tools - By Sneha Kulkarni",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=800&q=80",
+      "description": "Developing mapping tools that trace how target deep layers process complex arrays to generate clear auditable deduction reports.",
+      "likes": 296,
+      "comments": []
+    },
+    {
+      "id": 19,
+      "authorName": "Aaryan Kapoor",
+      "title": "AI in Smart Infrastructure Logistics - By Aaryan Kapoor",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80",
+      "description": "Deploying predictive routing configurations to balance supply chain nodes automatically against volatile transit delay parameters.",
+      "likes": 175,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Tanvi Bhatia",
+      "title": "Multi-Modal Token Integration Formats - By Tanvi Bhatia",
+      "category": "A.I",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "description": "Unifying sensory video matrix lines, audio sequences, and text datasets into a single cohesive training context layer.",
+      "likes": 323,
+      "comments": []
+    }
+  ]

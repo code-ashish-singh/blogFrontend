@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "authorName": "Reyansh Choudhury",
+      "title": "Smart Contract Optimizations to Reduce Gas Fees - By Reyansh Choudhury",
+      "category": "Blockchain",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=800&q=80",
+      "description": "Applying memory variable layouts, specialized custom compiler errors, and assembly level alterations to minimize block verification costs.",
+      "likes": 340,
+      "comments": [{"commentId": 108, "userName": "Arjun B.", "text": "Using custom errors instead of require strings really reduces deployment gas!"}]
+    },
+    {
+      "id": 2,
+      "authorName": "Sneha Kulkarni",
+      "title": "The Mechanics of Consensus: PoW vs PoS - By Sneha Kulkarni",
+      "category": "Blockchain",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?auto=format&fit=crop&w=800&q=80",
+      "description": "Investigating computational validation math variations, validator capital stake risks, and defensive stability thresholds.",
+      "likes": 212,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Aaryan Kapoor",
+      "title": "Understanding Zero-Knowledge Rollups - By Aaryan Kapoor",
+      "category": "Blockchain",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "description": "How processing off-chain batch transactions and delivering minimal cryptographic validity proofs maximizes platform execution speeds.",
+      "likes": 389,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Tanvi Bhatia",
+      "title": "Smart Contract Security Audit Guidelines - By Tanvi Bhatia",
+      "category": "Blockchain",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1618060932014-4deda4932554?auto=format&fit=crop&w=800&q=80",
+      "description": "Tracking reentrancy logic vulnerabilities, overflow bugs, and math miscalculations using modern automatic execution scanning tools.",
+      "likes": 415,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Krishna Prasad",
+      "title": "The Architecture of Private Blockchains - By Krishna Prasad",
+      "category": "Blockchain",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "description": "Deploying access-controlled ledger instances to secure corporate transactions and guarantee localized node consensus parameters.",
+      "likes": 267,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Aarav Sharma",
+      "title": "Cross-Chain Communication Standards - By Aarav Sharma",
+      "category": "Blockchain",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "description": "Analyzing state relay protocols and hash locking setups needed to sync isolated cryptographic validation engines safely.",
+      "likes": 310,
+      "comments": []
+    }
+]

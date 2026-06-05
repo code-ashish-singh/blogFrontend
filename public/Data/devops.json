@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "authorName": "Arjun Das",
+      "title": "Building Robust CI/CD Pipelines with GitHub Actions - By Arjun Das",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=800&q=80",
+      "description": "Structuring automated compilation steps, unit testing validations, and immediate staging deployment loops across modern software engineering workflows.",
+      "likes": 389,
+      "comments": [{"commentId": 105, "userName": "Vikram Singh", "text": "Automated testing setups are a breeze after reading this."}]
+    },
+    {
+      "id": 2,
+      "authorName": "Kavya Reddy",
+      "title": "Containerization Mastery: Advanced Docker Concepts - By Kavya Reddy",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=800&q=80",
+      "description": "Configuring efficient multi-stage container structures, layer caching protocols, and secure rootless execution bounds.",
+      "likes": 294,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Rohan Gupta",
+      "title": "Kubernetes Pod Orchestration Patterns - By Rohan Gupta",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?auto=format&fit=crop&w=800&q=80",
+      "description": "Managing high availability deployment scaling, configuration mappings, and internal networking services across bare-metal server environments.",
+      "likes": 412,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Riya Sen",
+      "title": "Infrastructure as Code with Terraform - By Riya Sen",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "description": "Declaring multi-provider cloud infrastructure instances using standardized script matrices to eliminate baseline configuration drift anomalies.",
+      "likes": 325,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Devansh Mishra",
+      "title": "Centralized Log Aggregation via ELK Stack - By Devansh Mishra",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "description": "Collecting distributed API infrastructure stream files into a singular index interface for immediate structural error monitoring.",
+      "likes": 187,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "authorName": "Shruti Saxena",
+      "title": "Prometheus and Grafana Metrics Mapping - By Shruti Saxena",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80",
+      "description": "Building intuitive real-time cluster dashboards to track host memory thresholds, query counts, and connection limits.",
+      "likes": 264,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "authorName": "Reyansh Choudhury",
+      "title": "Continuous Security Tracking (DevSecOps) - By Reyansh Choudhury",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "description": "Integrating automated package dependency checks and secret leaks scanners directly inside high-velocity pull request cycles.",
+      "likes": 315,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "authorName": "Sneha Kulkarni",
+      "title": "Nginx Zero-Downtime Reverse Proxy Setups - By Sneha Kulkarni",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1562813733-b31f71025d54?auto=format&fit=crop&w=800&q=80",
+      "description": "Configuring rolling proxy traffic re-routing logic to update application server layers seamlessly without disrupting active client requests.",
+      "likes": 230,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "authorName": "Aaryan Kapoor",
+      "title": "Git GitOps Deployment Workflows with ArgoCD - By Aaryan Kapoor",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=800&q=80",
+      "description": "Enforcing single-source-of-truth cluster matching configurations by listening directly to continuous version control changes.",
+      "likes": 278,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "authorName": "Tanvi Bhatia",
+      "title": "Automating Server Configurations via Ansible - By Tanvi Bhatia",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80",
+      "description": "Writing clean, reusable configuration plays to update patch sets and coordinate secure remote user definitions instantly.",
+      "likes": 169,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "authorName": "Krishna Prasad",
+      "title": "Managing Secrets Safely inside HashiCorp Vault - By Krishna Prasad",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=800&q=80",
+      "description": "Bypassing hardcoded production access keys by generating temporary dynamic database credentials dynamically.",
+      "likes": 340,
+      "comments": []
+    },
+    {
+      "id": 12,
+      "authorName": "Pooja Hegde",
+      "title": "Blue-Green Cloud Deployment Strategies - By Pooja Hegde",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "description": "Mitigating structural software upgrade risks by managing two isolated server environments and swapping routers instantly.",
+      "likes": 288,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "authorName": "Dhruv Singhal",
+      "title": "Linux Kernel Parameter Tuning Loops - By Dhruv Singhal",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&w=800&q=80",
+      "description": "Adjusting system host connection maximum bounds and file descriptors limits to manage high concurrent web requests.",
+      "likes": 215,
+      "comments": []
+    },
+    {
+      "id": 14,
+      "authorName": "Nisha Jha",
+      "title": "Container Storage Interface (CSI) Optimization - By Nisha Jha",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "description": "Mapping highly available persistent block tracking layers inside dynamic microservice storage topologies.",
+      "likes": 194,
+      "comments": []
+    },
+    {
+      "id": 15,
+      "authorName": "Madhav Chauhan",
+      "title": "Architecting Service Mesh via Istio - By Madhav Chauhan",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "description": "Enforcing secure mutual TLS communication validation structures and granular internal data traffic breaks.",
+      "likes": 302,
+      "comments": []
+    },
+    {
+      "id": 16,
+      "authorName": "Kriti Deshmukh",
+      "title": "Serverless Infrastructure Scaling Triggers - By Kriti Deshmukh",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "description": "Configuring event routers that scale modular ephemeral script processing systems from zero to thousands instantly.",
+      "likes": 277,
+      "comments": []
+    },
+    {
+      "id": 17,
+      "authorName": "Rudransh Pandey",
+      "title": "Designing High Reliability Chaos Labs - By Rudransh Pandey",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
+      "description": "Intentionally injecting server connectivity drops to verify cluster self-healing and recovery metrics.",
+      "likes": 165,
+      "comments": []
+    },
+    {
+      "id": 18,
+      "authorName": "Sanya Malhotra",
+      "title": "Automated Code Artifact Management - By Sanya Malhotra",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=800&q=80",
+      "description": "Setting up private package repository spaces to secure library distributions across wide internal developer groups.",
+      "likes": 234,
+      "comments": []
+    },
+    {
+      "id": 19,
+      "authorName": "Aditya Shrivastav",
+      "title": "Cloud Cost Optimization Governance - By Aditya Shrivastav",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=800&q=80",
+      "description": "Writing scripts to track unused block volumes, over-provisioned machine setups, and manage active discount tags.",
+      "likes": 210,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Mehak Grover",
+      "title": "The SRE Error Budget Framework - By Mehak Grover",
+      "category": "DevOps",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "description": "Balancing application delivery timelines against strict platform availability targets using auditable data loops.",
+      "likes": 320,
+      "comments": []
+    }
+  ]

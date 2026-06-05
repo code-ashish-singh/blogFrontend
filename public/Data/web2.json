@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "authorName": "Rohan Gupta",
+      "title": "Monolithic vs Microfrontends Architecture - By Rohan Gupta",
+      "category": "Web 2.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b81166b58?auto=format&fit=crop&w=800&q=80",
+      "description": "Evaluating decoupled application layouts, separate component pipeline builds, and client runtime assembly integrations.",
+      "likes": 167,
+      "comments": [{"commentId": 106, "userName": "Rahul K.", "text": "Microfrontends really save complex legacy apps."}]
+    },
+    {
+      "id": 2,
+      "authorName": "Riya Sen",
+      "title": "The Mechanics of Modern Dynamic State Management - By Riya Sen",
+      "category": "Web 2.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
+      "description": "How global reactive client structures optimize data prop rendering and prevent duplicate network request fetches.",
+      "likes": 210,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Devansh Mishra",
+      "title": "Optimizing Critical Web Render Paths - By Devansh Mishra",
+      "category": "Web 2.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=800&q=80",
+      "description": "Bypassing script blocking anomalies, styling hierarchy bottlenecks, and reducing initial load latency parameters effectively.",
+      "likes": 315,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Shruti Saxena",
+      "title": "REST vs GraphQL API Design Paradigms - By Shruti Saxena",
+      "category": "Web 2.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?auto=format&fit=crop&w=800&q=80",
+      "description": "A deep investigation into data payload over-fetching solutions, strict type schema matching, and single endpoint structures.",
+      "likes": 288,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Reyansh Choudhury",
+      "title": "Server-Side Rendering Mechanics Unfolded - By Reyansh Choudhury",
+      "category": "Web 2.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&w=800&q=80",
+      "description": "How executing pre-hydration steps on cloud web hosts optimizes index crawling visibility and initial content painting metrics.",
+      "likes": 340,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Ananya Iyer",
+      "title": "Advanced Web Security Header Implementation - By Ananya Iyer",
+      "category": "Web 2.0",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "description": "Configuring strict Content Security Policies (CSP) and CORS parameters to safeguard browser data operations from script manipulation hacks.",
+      "likes": 298,
+      "comments": []
+    }
+  ]

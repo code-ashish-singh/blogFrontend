@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "authorName": "Kabir Joshi",
+      "title": "Feature Engineering Strategies for Tabular Data - By Kabir Joshi",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=800&q=80",
+      "description": "Investigating target variable scaling, categorical column conversions, and high-correlation factor reductions inside dense analytical frameworks.",
+      "likes": 315,
+      "comments": [{"commentId": 104, "userName": "Pooja Roy", "text": "Handling missing values section was incredibly practical."}]
+    },
+    {
+      "id": 2,
+      "authorName": "Meera Nair",
+      "title": "Understanding Neural Network Optimizers - By Meera Nair",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "description": "A deep analysis of momentum shifts, SGD variations, and adaptive weight step controls inside complex regression backpropagations.",
+      "likes": 278,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Arjun Das",
+      "title": "Mitigating Overfitting in Deep Models - By Arjun Das",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=800&q=80",
+      "description": "Using dynamic dropouts, weight regularizations, and stratified cross-validation parameters to preserve classification accuracy.",
+      "likes": 342,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Kavya Reddy",
+      "title": "An Introduction to Support Vector Machines - By Kavya Reddy",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "description": "Understanding hyperplane boundaries, kernel tricks, and mathematical margins within clear multi-class sorting applications.",
+      "likes": 195,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Rohan Gupta",
+      "title": "Hyperparameter Tuning at Scale - By Rohan Gupta",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "description": "Evaluating random grid search setups, Bayesian probability paths, and cloud-coordinated population parameter controls.",
+      "likes": 267,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "authorName": "Riya Sen",
+      "title": "Convolutional Networks for Pattern Isolation - By Riya Sen",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1527474305487-b87b222841cc?auto=format&fit=crop&w=800&q=80",
+      "description": "How matrix filtering operations map structural feature representations uniformly to achieve high precision image segmentation.",
+      "likes": 389,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "authorName": "Devansh Mishra",
+      "title": "Deploying Machine Learning via Micro-APIs - By Devansh Mishra",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=800&q=80",
+      "description": "Converting local model checkpoints into lightweight fast runtime services ready for production cloud orchestration loops.",
+      "likes": 210,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "authorName": "Shruti Saxena",
+      "title": "Unsupervised Clustering in Fraud Mapping - By Shruti Saxena",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "description": "Utilizing specialized spatial tracking algorithms to locate outlier transaction sequences within banking dataset packages.",
+      "likes": 245,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "authorName": "Reyansh Choudhury",
+      "title": "Time-Series Forecaster System Setups - By Reyansh Choudhury",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80",
+      "description": "Applying memory network models to calculate inventory shifts and predict industrial consumer load patterns reliably.",
+      "likes": 312,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "authorName": "Sneha Kulkarni",
+      "title": "Principal Component Analysis Mechanics - By Sneha Kulkarni",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=800&q=80",
+      "description": "Reducing high dimensional input columns down to core orthogonal spaces while safeguarding variance metrics perfectly.",
+      "likes": 174,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "authorName": "Aaryan Kapoor",
+      "title": "Gradient Boosting: XGBoost Internals - By Aaryan Kapoor",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "description": "An analysis of residual training tracking steps, tree depth limitations, and loss calculation mechanisms.",
+      "likes": 334,
+      "comments": []
+    },
+    {
+      "id": 12,
+      "authorName": "Tanvi Bhatia",
+      "title": "Transfer Learning in Vision Classification - By Tanvi Bhatia",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "description": "Fine-tuning base industrial vision weights to solve niche classification actions using tiny proprietary training batches.",
+      "likes": 290,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "authorName": "Krishna Prasad",
+      "title": "Bias and Variance Equilibrium Frameworks - By Krishna Prasad",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "description": "Balancing network architecture complexity variables to consistently produce models that behave well on unseen testing points.",
+      "likes": 182,
+      "comments": []
+    },
+    {
+      "id": 14,
+      "authorName": "Pooja Hegde",
+      "title": "The Math Behind Backpropagation Loops - By Pooja Hegde",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=800&q=80",
+      "description": "A deep mathematical derivation of calculus chain rule steps across deep multi-layer neural network parameters.",
+      "likes": 401,
+      "comments": []
+    },
+    {
+      "id": 15,
+      "authorName": "Dhruv Singhal",
+      "title": "Recommendation Systems: Collaborative Filtering - By Dhruv Singhal",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?auto=format&fit=crop&w=800&q=80",
+      "description": "Building dot-product matrix factorization layers to predict user selection scores within web retail operations.",
+      "likes": 256,
+      "comments": []
+    },
+    {
+      "id": 16,
+      "authorName": "Nisha Jha",
+      "title": "Data Imbalance Solutions in Classification - By Nisha Jha",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+      "description": "Using SMOTE structural oversampling and specialized cost-sensitive classifications to handle rare event detection problems.",
+      "likes": 224,
+      "comments": []
+    },
+    {
+      "id": 17,
+      "authorName": "Madhav Chauhan",
+      "title": "An Introduction to Generative Adversarial Networks - By Madhav Chauhan",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "description": "Tracking competitive game loops between structural generator models and discrimination checkers to synthesize natural image distributions.",
+      "likes": 310,
+      "comments": []
+    },
+    {
+      "id": 18,
+      "authorName": "Kriti Deshmukh",
+      "title": "Evaluating Machine Learning Performance Matrix - By Kriti Deshmukh",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "description": "Moving past basic accuracy metrics to configure auditable F1-scores, precision graphs, and localized ROC curves.",
+      "likes": 263,
+      "comments": []
+    },
+    {
+      "id": 19,
+      "authorName": "Rudransh Pandey",
+      "title": "Quantization Frameworks for Edge Devices - By Rudransh Pandey",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "description": "Converting complex floating weight points into tiny INT8 values to deploy deep logic onto small embedded processors.",
+      "likes": 198,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Sanya Malhotra",
+      "title": "Reinforcement Learning Q-Table Mechanics - By Sanya Malhotra",
+      "category": "ML",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1617791160505-6f006e121980?auto=format&fit=crop&w=800&q=80",
+      "description": "How standalone digital tracking models develop ideal navigation trajectories inside simulation boundaries via iterative target adjustments.",
+      "likes": 320,
+      "comments": []
+    }
+  ]

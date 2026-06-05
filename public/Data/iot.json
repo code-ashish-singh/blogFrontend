@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "authorName": "Vivaan Mehta",
+      "title": "Smart Cities: Scaling IoT Networks Globally - By Vivaan Mehta",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "description": "Exploring real-time routing automation, urban power grids, and decentralized sensory integration layers across modern global metropolitan spaces.",
+      "likes": 312,
+      "comments": [{"commentId": 102, "userName": "Sneha Patil", "text": "Edge computing integration with IoT needs more focus!"}]
+    },
+    {
+      "id": 2,
+      "authorName": "Diya Patel",
+      "title": "The Security Protocols of Smart Home Systems - By Diya Patel",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=800&q=80",
+      "description": "Evaluating critical mesh communication configurations to stop systemic localized threat deployments over micro smart nodes.",
+      "likes": 154,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Dhruv Singhal",
+      "title": "Industrial IoT: The Smart Factory Shift - By Dhruv Singhal",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80",
+      "description": "How high-capacity production assembly units leverage sensor intelligence arrays to achieve predictive machinery repair schedules.",
+      "likes": 264,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Nisha Jha",
+      "title": "MQTT vs HTTP: Picking the Best Device Protocol - By Nisha Jha",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+      "description": "A deep operational investigation into architectural communication latency differences on embedded high-constraint hardware tracking frameworks.",
+      "likes": 198,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Madhav Chauhan",
+      "title": "The Rise of Edge Computing in Smart Devices - By Madhav Chauhan",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "description": "Shifting heavy algorithmic classification logic directly onto microprocessors to bypass massive centralized network infrastructure backhauls.",
+      "likes": 245,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "authorName": "Kriti Deshmukh",
+      "title": "IoT in Wearable Healthcare Tech - By Kriti Deshmukh",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1576091160599-112ba8d25d1d?auto=format&fit=crop&w=800&q=80",
+      "description": "How miniature medical patches transmit real-time biological cardiac metrics to remote healthcare server architectures safely.",
+      "likes": 320,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "authorName": "Rudransh Pandey",
+      "title": "Agricultural Automation Using Sensors - By Rudransh Pandey",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=800&q=80",
+      "description": "Deploying environmental moisture, ground quality, and temperature collection clusters to scale remote agricultural production units.",
+      "likes": 187,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "authorName": "Sanya Malhotra",
+      "title": "Designing Low-Power Embedded Systems - By Sanya Malhotra",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80",
+      "description": "Architectural tips to configure sleep-states inside microcontroller chips to prolong remote field deployments for multiple years.",
+      "likes": 215,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "authorName": "Aditya Shrivastav",
+      "title": "Autonomous Vehicles and V2X Communication - By Aditya Shrivastav",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=800&q=80",
+      "description": "How next-gen connected transit fleets inter-communicate positional trajectories instantly to eliminate local route collisions.",
+      "likes": 299,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "authorName": "Mehak Grover",
+      "title": "The Threat Landscape of IoT Botnets - By Mehak Grover",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "description": "Analyzing how poorly configured IP smart cameras are exploited to trigger mass distributed server interruptions.",
+      "likes": 178,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "authorName": "Yash Wardhan",
+      "title": "Smart Logistics: Asset Tracking Technologies - By Yash Wardhan",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80",
+      "description": "Deploying cross-border satellite tracking systems to manage logistics fleets and dynamic warehouse item movements safely.",
+      "likes": 134,
+      "comments": []
+    },
+    {
+      "id": 12,
+      "authorName": "Prisha Chawla",
+      "title": "Integrating IoT with Cloud Backends - By Prisha Chawla",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "description": "Configuring efficient cloud ingestion tunnels to sort and classify billions of telemetry metric sequences continuously.",
+      "likes": 210,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "authorName": "Tejas Mahajan",
+      "title": "Energy Harvesting for Wireless Sensor Nodes - By Tejas Mahajan",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=800&q=80",
+      "description": "Utilizing solar energy matrices and ambient thermal heat differentials to supply power to infrastructure trackers without cell swaps.",
+      "likes": 165,
+      "comments": []
+    },
+    {
+      "id": 14,
+      "authorName": "Avani Sethi",
+      "title": "The Impact of 5G on IoT Connectivity - By Avani Sethi",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=800&q=80",
+      "description": "Breaking down how high-density cellular technology supports massive device placements per square kilometer effortlessly.",
+      "likes": 340,
+      "comments": []
+    },
+    {
+      "id": 15,
+      "authorName": "Utkarsh Tripathi",
+      "title": "Building Custom Smart Microcontrollers - By Utkarsh Tripathi",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1601524909162-be87252be298?auto=format&fit=crop&w=800&q=80",
+      "description": "A guide to programming microcircuit inputs using standard firmware environments to manage motorized relays.",
+      "likes": 222,
+      "comments": []
+    },
+    {
+      "id": 16,
+      "authorName": "Ridhima Rastogi",
+      "title": "Smart Retail: Connected Display Boards - By Ridhima Rastogi",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?auto=format&fit=crop&w=800&q=80",
+      "description": "How retail inventory tracking nodes automatically modify display pricing matrices depending on live inventory volume data.",
+      "likes": 181,
+      "comments": []
+    },
+    {
+      "id": 17,
+      "authorName": "Ayush Taneja",
+      "title": "Environmental Air Quality Tracking Webs - By Ayush Taneja",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=800&q=80",
+      "description": "Deploying low-cost electrochemical sensor grids over city spaces to calculate distribution curves of particulate matter emissions.",
+      "likes": 204,
+      "comments": []
+    },
+    {
+      "id": 18,
+      "authorName": "Bhavna Chaudhary",
+      "title": "Smart Grid Energy Management Frameworks - By Bhavna Chaudhary",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=80",
+      "description": "Balancing dynamic consumer electricity demand patterns with multi-source solar energy generator inputs programmatically.",
+      "likes": 159,
+      "comments": []
+    },
+    {
+      "id": 19,
+      "authorName": "Karan Johar",
+      "title": "Real-Time Structural Health Monitoring - By Karan Johar",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=800&q=80",
+      "description": "Using piezoelectric stress gauges to map internal micro-fractures inside transportation bridges and airport platforms.",
+      "likes": 235,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Ishita Bhalla",
+      "title": "The Bluetooth Mesh Networking Primer - By Ishita Bhalla",
+      "category": "IoT",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=800&q=80",
+      "description": "How high-density smart installations scale peer communication patterns without high infrastructure routing costs.",
+      "likes": 192,
+      "comments": []
+    }
+  ]

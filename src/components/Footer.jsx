@@ -6,7 +6,7 @@ const Footer = () => {
         <div className = "w-full h-70 bg-[#88c1ec] mt-10 flex justify-between py-15 px-20 ">
             <div>
               <h2 className='text-3xl font-[cursive] font-semibold'>ThoughtShare</h2>
-              <p className='text-base text-gray-800 px-3 mt-3'
+              <p className='text-base text-gray-800 '
               >A platform to share your thought , 
               <br /> 
               discover ideas, and inspire  the world 

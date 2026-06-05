@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "authorName": "Aarav Sharma",
+      "title": "Demystifying Zero Trust Architecture - By Aarav Sharma",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "description": "In this insight-driven article, engineering student Aarav Sharma explores the critical concepts of demystifying zero trust architecture. Covering foundational building blocks, practical industry applications, and real-world case studies, this comprehensive breakdown serves as an excellent reference guide for both beginners and peers looking to deepen their domain expertise in Cybersecurity.",
+      "likes": 245,
+      "comments": [{"commentId": 101, "userName": "Rohan Das", "text": "The explanation on perimeter-less security was top-notch!"}]
+    },
+    {
+      "id": 2,
+      "authorName": "Ananya Iyer",
+      "title": "Phishing in the Modern Era: Threat Analysis - By Ananya Iyer",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "description": "An in-depth evaluation of advanced social engineering techniques and corporate vulnerability assessment protocols.",
+      "likes": 189,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorName": "Vivaan Mehta",
+      "title": "The Evolution of Ransomware Deployment - By Vivaan Mehta",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=800&q=80",
+      "description": "Tracing the history of cryptographic malware from early systems to complex multi-tier extortion operations.",
+      "likes": 156,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorName": "Diya Patel",
+      "title": "Understanding Network Penetration Testing - By Diya Patel",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "description": "A comprehensive walkthrough on how ethical hackers compromise network vulnerabilities legally to patch gaps.",
+      "likes": 312,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorName": "Ishaan Verma",
+      "title": "Securing Cloud Environments and Clusters - By Ishaan Verma",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "description": "Exploring common configuration errors in multi-cloud enterprise networks and how to deploy robust IAM policies.",
+      "likes": 220,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "authorName": "Aditi Rao",
+      "title": "The Role of Cryptography in Data Safety - By Aditi Rao",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1618060932014-4deda4932554?auto=format&fit=crop&w=800&q=80",
+      "description": "An introduction to symmetric encryption, public key infrastructures, and modern algorithmic defense standards.",
+      "likes": 198,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "authorName": "Kabir Joshi",
+      "title": "Incident Response and Disaster Recover Systems - By Kabir Joshi",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1551808525-51a94da548ce?auto=format&fit=crop&w=800&q=80",
+      "description": "What to do when a critical database gets breached. A strategic framework for rapid business containment.",
+      "likes": 174,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "authorName": "Meera Nair",
+      "title": "Mobile App Security: Guarding Core APIs - By Meera Nair",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80",
+      "description": "Preventing reverse engineering and client-side memory leakage in iOS and Android native platforms.",
+      "likes": 265,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "authorName": "Arjun Das",
+      "title": "AI in Threat Detection Analytics - By Arjun Das",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=800&q=80",
+      "description": "How modern Security Operation Centers utilize machine learning models to detect anomaly deviations in real-time.",
+      "likes": 340,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "authorName": "Kavya Reddy",
+      "title": "The Threat of Insider Collusion - By Kavya Reddy",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "description": "Mitigating the security threat vector posed by malicious employees and compromised internal authority privileges.",
+      "likes": 112,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "authorName": "Rohan Gupta",
+      "title": "OWASP Top 10 Vulnerabilities Explained - By Rohan Gupta",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1562813733-b31f71025d54?auto=format&fit=crop&w=800&q=80",
+      "description": "Breaking down Cross-Site Scripting (XSS), SQL Injections, and Broken Authentication flows with real labs.",
+      "likes": 410,
+      "comments": []
+    },
+    {
+      "id": 12,
+      "authorName": "Riya Sen",
+      "title": "Advanced Endpoint Detection (EDR) Systems - By Riya Sen",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "description": "Moving beyond traditional anti-virus apps to behavioral-based host machine security auditing tools.",
+      "likes": 289,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "authorName": "Devansh Mishra",
+      "title": "Biometric Authentication Security Analysis - By Devansh Mishra",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=800&q=80",
+      "description": "Analyzing spoofing vectors on face recognition and fingerprint validation devices at scale.",
+      "likes": 143,
+      "comments": []
+    },
+    {
+      "id": 14,
+      "authorName": "Shruti Saxena",
+      "title": "Securing API Endpoints Against DDoS Attacks - By Shruti Saxena",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "description": "Implementing strategic rate-limiting, web application firewalls (WAF), and global CDN packet filtering.",
+      "likes": 254,
+      "comments": []
+    },
+    {
+      "id": 15,
+      "authorName": "Reyansh Choudhury",
+      "title": "Social Engineering: The Human Vector - By Reyansh Choudhury",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1521791136368-1a46827d3ad4?auto=format&fit=crop&w=800&q=80",
+      "description": "Why technical boundaries fail when workers are manipulated via spear-phishing and phone impersonations.",
+      "likes": 305,
+      "comments": []
+    },
+    {
+      "id": 16,
+      "authorName": "Sneha Kulkarni",
+      "title": "The Threat of Deepfakes in Corporate Fraud - By Sneha Kulkarni",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?auto=format&fit=crop&w=800&q=80",
+      "description": "How synthetic audio and video are leveraged to perform executive identity thefts and unauthorized banking trades.",
+      "likes": 223,
+      "comments": []
+    },
+    {
+      "id": 17,
+      "authorName": "Aaryan Kapoor",
+      "title": "WiFi Network Vulnerability Mapping - By Aaryan Kapoor",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "description": "Cracking modern WPA3 handshakes and identifying localized rogue access points inside office clusters.",
+      "likes": 181,
+      "comments": []
+    },
+    {
+      "id": 18,
+      "authorName": "Tanvi Bhatia",
+      "title": "Hardware Trojans and Supply Chain Hacks - By Tanvi Bhatia",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "description": "Investigating backdoors integrated directly inside server silicon chips during structural assembly.",
+      "likes": 195,
+      "comments": []
+    },
+    {
+      "id": 19,
+      "authorName": "Krishna Prasad",
+      "title": "The Architecture of Darknet Markets - By Krishna Prasad",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "description": "Understanding onion routing protocols, localized operational security, and anonymous electronic ledger trails.",
+      "likes": 372,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "authorName": "Pooja Hegde",
+      "title": "Quantum Cryptography and Post-Quantum Security - By Pooja Hegde",
+      "category": "Cybersecurity",
+      "publishedDate": "04-06-2026",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&q=80",
+      "description": "Preparing our system infrastructure for mathematical decryption systems deployed by future quantum calculations.",
+      "likes": 415,
+      "comments": []
+    }
+  ]
