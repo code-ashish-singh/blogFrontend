@@ -1,0 +1,56 @@
+[
+  {
+    "filename": "ai.json",
+    "topic": "Artificial Intelligence",
+    "article_count": 42,
+    "description": "Articles focusing on machine learning, natural language processing, automation, and the evolution of intelligent systems."
+  },
+  {
+    "filename": "blockchain.json",
+    "topic": "Blockchain Technology",
+    "article_count": 28,
+    "description": "Explores decentralized ledgers, cryptocurrency, smart contracts, and secure cryptographic transactions."
+  },
+  {
+    "filename": "Blog.json",
+    "topic": "General Blogging",
+    "article_count": 65,
+    "description": "A collection of miscellaneous articles, personal insights, and general knowledge blog posts."
+  },
+  {
+    "filename": "cybersecurity.json",
+    "topic": "Cyber Security",
+    "article_count": 51,
+    "description": "Focuses on digital defense mechanisms, ethical hacking, data privacy, and protecting networks from cyber threats."
+  },
+  {
+    "filename": "devops.json",
+    "topic": "DevOps",
+    "article_count": 37,
+    "description": "Covers software development lifecycle optimization, CI/CD pipelines, cloud infrastructure, and automation tools."
+  },
+  {
+    "filename": "iot.json",
+    "topic": "Internet of Things",
+    "article_count": 19,
+    "description": "Articles about interconnected smart devices, embedded systems, and real-time data communication across networks."
+  },
+  {
+    "filename": "ml.json",
+    "topic": "Machine Learning",
+    "article_count": 48,
+    "description": "Deals with predictive algorithms, data analysis, neural networks, and training models to learn from data."
+  },
+  {
+    "filename": "web2.json",
+    "topic": "Web 2.0",
+    "article_count": 33,
+    "description": "Discusses the traditional centralized internet, social media ecosystems, and user-generated content platforms."
+  },
+  {
+    "filename": "web3.json",
+    "topic": "Web 3.0",
+    "article_count": 24,
+    "description": "Explores the next-generation decentralized web, semantic internet, and user-owned digital ecosystems."
+  }
+]
