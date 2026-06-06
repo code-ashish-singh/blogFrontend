@@ -89,6 +89,7 @@ const Categories = () => {
                image = {item.image}
                likes = {item.likes}
                comments={item.comments.length}
+               authorName={item.authorName}
                />))
           }
          

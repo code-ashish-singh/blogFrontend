@@ -54,7 +54,7 @@ const Home = () => {
             >Featured Blogs
             </h1>
             <Link 
-            to='/explore'
+            to='/categories'
             className='text-blue-700 '>
               View all
               </Link>

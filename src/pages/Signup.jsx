@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import Swal from 'sweetalert2'
 
 const Signup = () => {
   const navigate = useNavigate()
@@ -18,6 +19,11 @@ const Signup = () => {
   const handleSubmit = (e)=>{
     e.preventDefault()
     console.log(formdata)
+    Swal.fire({
+  title: "Registered",
+  text: "User SignUp successfully",
+  icon: "success"
+});
     setFormdata({
       name : "",
       email : "",
@@ -26,7 +32,7 @@ const Signup = () => {
     })
     setTimeout(() => {
       navigate('/')
-    }, 500);
+    }, 2000);
   }
   return (
     <>
